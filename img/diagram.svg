@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="575px" height="497.555px" viewBox="0 0 575 497.555" enable-background="new 0 0 575 497.555" xml:space="preserve">
+<g>
+	<polygon fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="62.898,26.765 
+		209.936,26.765 135.62,173.802 	"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="431.211,173.802 
+		209.936,26.765 281.302,173.802 431.211,173.802 356.972,26.765 504.01,26.765 431.211,173.802 356.972,26.765 	"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="62.898,26.765 
+		281.302,173.802 504.01,26.765 	"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="356.972,26.765 
+		135.62,173.802 281.302,173.802 356.972,26.765 209.936,26.765 	"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="135.62,173.802 
+		209.936,320.839 281.302,173.802 356.972,320.839 431.211,173.802 	"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" x1="356.972" y1="320.839" x2="209.936" y2="320.839"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="356.972,320.839 
+		281.049,467.876 209.936,320.839 	"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" x1="281.302" y1="173.802" x2="281.049" y2="467.876"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" x1="356.972" y1="320.839" x2="356.972" y2="26.765"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" x1="209.936" y1="320.839" x2="209.936" y2="26.765"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="431.211,173.802 
+		62.898,26.765 356.972,320.839 135.62,173.802 	"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" d="M135.62,173.802"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="135.62,173.802 
+		504.01,26.765 209.936,320.839 431.211,173.802 	"/>
+</g>
+<g>
+	<rect y="19.195" fill="none" width="61" height="22.5"/>
+	<text transform="matrix(1 0 0 1 0 32.0854)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">human</text>
+</g>
+<g>
+	<rect x="367.211" y="311.07" fill="none" width="61" height="22.5"/>
+	<text transform="matrix(1 0 0 1 367.2109 323.9609)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">control</text>
+</g>
+<g>
+	<rect x="139.043" y="311.07" fill="none" width="76.404" height="22.5"/>
+	<text transform="matrix(1 0 0 1 139.0435 323.9609)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">emotion</text>
+</g>
+<g>
+	<rect x="183.543" fill="none" width="69.904" height="22.5"/>
+	<text transform="matrix(1 0 0 1 183.543 12.8906)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">learning</text>
+</g>
+<g>
+	<rect x="240.822" y="475.055" fill="none" width="85.416" height="22.5"/>
+	<text transform="matrix(1 0 0 1 240.8223 487.9453)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">technology</text>
+</g>
+<g>
+	<rect x="441.35" y="162.234" fill="none" width="61" height="22.5"/>
+	<text transform="matrix(1 0 0 1 441.3496 175.1255)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">thought</text>
+</g>
+<g>
+	<rect x="512.334" y="19.195" fill="none" width="62.666" height="22.5"/>
+	<text transform="matrix(1 0 0 1 512.334 32.0854)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">ecology</text>
+</g>
+<g>
+	<rect x="319.814" fill="none" width="70" height="22.5"/>
+	<text transform="matrix(1 0 0 1 319.8145 12.8906)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">behavior</text>
+</g>
+<rect x="70.667" y="162.234" fill="none" width="61" height="22.5"/>
+<text transform="matrix(1 0 0 1 70.667 175.1245)" fill="#FFFFFF" font-family="'Merriweather-BoldItalic'" font-size="16">animal</text>
+</svg>
